@@ -1,0 +1,3 @@
+/Users/Apple/CLang/file-explorer/cmake-build-debug/CMakeFiles/file_explorer.dir
+/Users/Apple/CLang/file-explorer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Apple/CLang/file-explorer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
